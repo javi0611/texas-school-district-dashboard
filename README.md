@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-<img src="images/texas_dashboard_overview.png" width="900">
+<img src="texas_dashboard_overview.png" width="900">
 
 ## 🎯 Objective
 Analyze relationships between district spending, socioeconomic factors, and math proficiency across 50 Texas school districts.
