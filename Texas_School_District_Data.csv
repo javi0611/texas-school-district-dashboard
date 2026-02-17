@@ -1,0 +1,51 @@
+District Name,County,Region,Total Students,Math Proficiency %,Reading Proficiency %,Graduation Rate %,Average Teacher Salary,Student Teacher Ratio,Per Pupil Spending,Free Reduced Lunch %,District Type,Year
+Arlington ISD,Tarrant,DFW,57200,42,48,89,58500,15.2,9800,62,Urban,2025
+Dallas ISD,Dallas,DFW,145000,38,44,85,57200,14.8,10200,86,Urban,2025
+Fort Worth ISD,Tarrant,DFW,73500,36,42,83,56800,15.5,9600,82,Urban,2025
+Plano ISD,Collin,DFW,51000,62,68,96,61200,14.2,10800,28,Suburban,2025
+Frisco ISD,Collin,DFW,72000,65,70,97,60500,15.0,10500,18,Suburban,2025
+Mansfield ISD,Tarrant,DFW,34500,52,58,92,59000,14.8,9900,42,Suburban,2025
+Grand Prairie ISD,Dallas,DFW,29000,35,41,84,56500,15.8,9400,78,Urban,2025
+Irving ISD,Dallas,DFW,33000,37,43,82,55800,16.0,9200,80,Urban,2025
+Garland ISD,Dallas,DFW,52000,40,46,86,57500,15.3,9700,68,Urban,2025
+Lewisville ISD,Denton,DFW,51500,55,61,93,59500,14.5,10100,35,Suburban,2025
+Keller ISD,Tarrant,DFW,35000,60,65,95,60000,14.3,10400,22,Suburban,2025
+Carroll ISD,Tarrant,DFW,8200,78,82,99,62000,13.5,12200,6,Suburban,2025
+Highland Park ISD,Dallas,DFW,7100,80,84,99,63500,12.8,14500,3,Suburban,2025
+Houston ISD,Harris,Houston,187000,35,40,82,58000,16.2,10100,83,Urban,2025
+Cypress-Fairbanks ISD,Harris,Houston,115000,48,54,90,58800,15.0,9900,55,Suburban,2025
+Katy ISD,Harris,Houston,92000,58,63,94,60000,14.6,10300,32,Suburban,2025
+Spring Branch ISD,Harris,Houston,33000,50,56,91,59200,14.8,10600,48,Suburban,2025
+Pasadena ISD,Harris,Houston,51000,32,38,79,55500,16.5,9000,85,Urban,2025
+Aldine ISD,Harris,Houston,67000,30,36,78,55000,16.8,9100,88,Urban,2025
+Humble ISD,Harris,Houston,47000,52,58,92,59000,14.9,10000,38,Suburban,2025
+San Antonio ISD,Bexar,San Antonio,47000,33,39,80,55200,15.8,9500,87,Urban,2025
+North East ISD,Bexar,San Antonio,62000,48,54,90,57800,15.0,9800,45,Suburban,2025
+Northside ISD,Bexar,San Antonio,99000,46,52,89,57500,15.2,9700,50,Suburban,2025
+Austin ISD,Travis,Austin,75000,52,58,90,59500,14.5,11000,48,Urban,2025
+Round Rock ISD,Williamson,Austin,50000,60,66,95,60500,14.0,10600,25,Suburban,2025
+Leander ISD,Williamson,Austin,42000,62,67,96,60000,14.2,10400,20,Suburban,2025
+El Paso ISD,El Paso,West Texas,54000,30,36,80,53000,16.0,8800,82,Urban,2025
+Socorro ISD,El Paso,West Texas,46000,32,38,81,53500,15.8,8900,80,Urban,2025
+Lubbock ISD,Lubbock,West Texas,30000,38,44,84,54500,15.5,9200,65,Urban,2025
+Midland ISD,Midland,West Texas,27000,36,42,82,56000,15.8,9800,58,Urban,2025
+Odessa/Ector County ISD,Ector,West Texas,33000,28,34,76,55000,16.2,9500,72,Urban,2025
+Amarillo ISD,Potter,Panhandle,30000,35,41,82,54000,15.5,9100,68,Urban,2025
+Corpus Christi ISD,Nueces,Coastal,34000,34,40,81,54500,15.6,9300,74,Urban,2025
+Brownsville ISD,Cameron,Rio Grande Valley,41000,30,36,82,52000,16.5,8600,92,Urban,2025
+McAllen ISD,Hidalgo,Rio Grande Valley,23000,38,44,87,53500,15.2,9000,82,Urban,2025
+Edinburg CISD,Hidalgo,Rio Grande Valley,33000,32,38,83,52500,16.0,8700,88,Urban,2025
+Laredo ISD,Webb,Rio Grande Valley,23000,29,35,79,52000,16.2,8500,90,Urban,2025
+Tyler ISD,Smith,East Texas,18000,40,46,86,55000,15.0,9500,60,Urban,2025
+Longview ISD,Gregg,East Texas,8500,38,44,84,54000,15.2,9200,65,Urban,2025
+Killeen ISD,Bell,Central Texas,44000,36,42,83,54500,16.0,9000,62,Urban,2025
+Temple ISD,Bell,Central Texas,9000,40,46,86,55000,15.0,9400,58,Urban,2025
+Waco ISD,McLennan,Central Texas,14000,32,38,78,53500,15.8,9100,80,Urban,2025
+Denton ISD,Denton,DFW,32000,56,62,94,59500,14.5,10200,30,Suburban,2025
+McKinney ISD,Collin,DFW,25000,58,64,95,60000,14.3,10400,24,Suburban,2025
+Allen ISD,Collin,DFW,21000,64,69,97,61000,13.8,10800,15,Suburban,2025
+Rockwall ISD,Rockwall,DFW,17000,60,66,96,59800,14.0,10500,20,Suburban,2025
+Prosper ISD,Collin,DFW,19000,68,73,98,61500,13.5,11200,10,Suburban,2025
+Coppell ISD,Dallas,DFW,12500,72,76,98,61000,13.2,11500,12,Suburban,2025
+Grapevine-Colleyville ISD,Tarrant,DFW,13500,63,68,96,60500,13.8,10900,18,Suburban,2025
+Hurst-Euless-Bedford ISD,Tarrant,DFW,23000,45,51,88,57500,15.2,9600,55,Suburban,2025
